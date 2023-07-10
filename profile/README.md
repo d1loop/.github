@@ -5,14 +5,14 @@
   </a>
 </p>
 <p align="center">
- Anonymous social networking app. Built with React Native.
+ A new social networking app. Built with NextJS.
 </p>
 
 ## Repos
 Here is the list of our amazing ✨ repos:
-- [d1loop/app](https://github.com/d1loop/app): The app
-- [d1loop/docs](https://github.com/d1loop/docs): The docs for the app
+- [d1loop/app](https://github.com/d1loop/app): The web app.
+- [d1loop/docs](https://github.com/d1loop/docs): The docs for the web app.
 
 ---
 
-Made with 🧆 by Ron Nuss, in Israel. Thanks to all of [this people\websites](https://github.com/d1loop/app#-acknowledgments) that are helping me.
+Made with 🧆 by Ron Nuss, in Israel. Thanks to all of [this people\websites](https://github.com/d1loop/app#-acknowledgments) that are helping me creating this project.
